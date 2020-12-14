@@ -6,9 +6,9 @@ Requisitos:
 
 Passos:
 1 - Criar a tabela:
-* Executar http://localhost:10000/criatabela
+  Executar http://localhost:10000/criatabela
 2 - Realizar importação dos dados para o banco
-* Executar http://localhost:10000/importa
+  Executar http://localhost:10000/importa
 
 (caso necessário o drop da tabela: executar http://localhost:10000/deletatabela)
 
