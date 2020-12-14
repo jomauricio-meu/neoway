@@ -4,10 +4,11 @@ Requisitos:
 - Docker
 - Arquivo Txt para importação dentro da pasta "base"
 
-Passos:
-1 - Criar a tabela:
+
+Passo 1: Criar a tabela:
   Executar http://localhost:10000/criatabela
-2 - Realizar importação dos dados para o banco
+  
+Passo 2: Realizar importação dos dados para o banco
   Executar http://localhost:10000/importa
 
 (caso necessário o drop da tabela: executar http://localhost:10000/deletatabela)
